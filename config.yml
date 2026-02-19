@@ -14,7 +14,7 @@ caches:
     maxAge: "5m"
 
 # The language code for the site
-languageCode: "en-us"
+languageCode: "zh-cn"
 
 # Site title
 title: "My Hugo Site"
